@@ -56,20 +56,20 @@ header h1 em {
 /* Navigation list styles */
 
 header nav ul li {
-   background-color: rgb(233, 200, 163);
+   background-color: rgb(233, 216, 216);
    font-size: 0.8em;   
    padding: 0px 10px;
 }
 
 header nav ul li a {
-   color: rgb(153, 83, 6);
+   color: rgb(158, 132, 132);
    display: block;
    width: 100%;
 }
 
 header nav ul li a:hover {
    color: white;
-   background-color: rgb(153, 83, 6);
+   background-color: rgb(158, 132, 132);
 }
 
 a#navicon {
@@ -79,7 +79,7 @@ a#navicon {
 /* Container Styles */
 
 div#container {
-   background: rgb(248, 248, 210);
+   background: rgb(255, 245, 245);
 
 }
 
