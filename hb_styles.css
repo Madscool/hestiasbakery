@@ -47,6 +47,7 @@ header h1 {
    color: black;
    font-size: 1.4em;
    padding: 5px 0px 5px 12px;
+   text-align: center;
 }
 
 header h1 em {
@@ -97,7 +98,7 @@ section#main img {
 
 section#main h2 {
    color: white;
-   background: linear-gradient(to right, rgb(153, 83, 6) 30%, black);
+   background: pink;
    font-size: 1.1em;
    letter-spacing: 5px;
    padding: 5px 0px 5px 12px;
@@ -114,7 +115,7 @@ section#main p {
 
 footer {
    color: white;    
-   background: rgb(74, 48, 48);  
+   background: rgb(156, 90, 90);  
    font-size: 1em;  
    font-style: normal;
    height: 30px;
@@ -123,9 +124,8 @@ footer {
   
 }
 
-/* ===============================
-   Mobile Styles: 0px to 640px 
-   ===============================
+/*
+   Mobile: 0px to 640px 
 */
 @media only screen and (max-width: 640px) {
 
@@ -149,9 +149,8 @@ footer {
    }
 }
 
-/* =============================================
-   Tablet and Desktop Styles: greater than 640px
-   =============================================
+/*
+   Tablet and Desktop: greater than 640px
 */
 @media only screen and (min-width: 641px) {
 
