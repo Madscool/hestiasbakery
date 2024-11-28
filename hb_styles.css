@@ -22,7 +22,7 @@ body {
 
 body {
    display: flex;
-   flex-flow: column nowrap;
+   flex-direction: column;
    height: 100%;
 }
 
