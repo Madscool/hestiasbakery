@@ -57,7 +57,7 @@ header h1 em {
 
 header nav ul li {
    background-color: rgb(233, 216, 216);
-   font-size: 0.8em;   
+   font-size: 1.3em;   
    padding: 0px 10px;
 }
 
@@ -114,8 +114,8 @@ section#main p {
 
 footer {
    color: white;    
-   background: linear-gradient(to right, rgb(153, 83, 6) 30%, black);   
-   font-size: 0.65em;  
+   background: rgb(74, 48, 48);  
+   font-size: 1em;  
    font-style: normal;
    height: 30px;
    line-height: 30px;   
